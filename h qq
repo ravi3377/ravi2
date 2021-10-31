@@ -1,0 +1,462 @@
+[33mcommit 4608179c4c6e008f7badcbcff6c7a8268abedc63[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-81-160.ec2.internal>
+Date:   Sun Oct 31 03:33:38 2021 +0000
+
+    commited second
+
+[33mcommit a8adf8e0ee36b4c83cd1e10e01f7933724d3fa8c[m
+Author: EC2 Default User <ec2-user@ip-172-31-81-160.ec2.internal>
+Date:   Sun Oct 31 03:19:42 2021 +0000
+
+    commited newly
+
+[33mcommit ebf61af5266b80aadb15ce126c23a5c045cda9a4[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ravi3377 <ravitejavelaga25@gmail.com>
+Date:   Tue Jun 8 14:51:04 2021 +0000
+
+    last
+
+[33mcommit bf11ecbfb08ec9b193a23903c9d1b82b3f0d1d82[m
+Author: ravi3377 <ravitejavelaga25@gmail.com>
+Date:   Tue Jun 8 14:11:50 2021 +0000
+
+    yes Revert "back"
+    
+    This reverts commit 002c10160a53398205ebf25ed97eba8007545f99.
+
+[33mcommit c7cd2d934f296f51d211337f5894c8ea7872bb98[m
+Author: ravi3377 <ravitejavelaga25@gmail.com>
+Date:   Tue Jun 8 14:09:18 2021 +0000
+
+    Revert "why"
+    
+    This reverts commit d41511b5aecde8f79d2435872572748306befc26.
+
+[33mcommit 002c10160a53398205ebf25ed97eba8007545f99[m
+Author: ravi3377 <ravitejavelaga25@gmail.com>
+Date:   Tue Jun 8 14:03:40 2021 +0000
+
+    back
+
+[33mcommit d41511b5aecde8f79d2435872572748306befc26[m
+Author: ravi3377 <ravitejavelaga25@gmail.com>
+Date:   Tue Jun 8 14:02:03 2021 +0000
+
+    why
+
+[33mcommit a32d0e6a0aa1dddcc3eae832a2d22fae2e4a896e[m
+Author: EC2 Default User <ec2-user@ip-172-31-83-130.ec2.internal>
+Date:   Tue Jun 8 13:56:38 2021 +0000
+
+    ex
+
+[33mcommit 9d81ed932bccf1fdbb05ae699937cac705929af6[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 16:30:59 2020 +0000
+
+    deleted
+
+[33mcommit 7b3eed92468d571c6498c2b683f0c49d45a30630[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 16:11:05 2020 +0000
+
+    versioning
+
+[33mcommit 50a34edaf9610a663dc799a614c3eebeb68c8ded[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 16:06:55 2020 +0000
+
+    version 1.5
+
+[33mcommit 78b9806481204b438d2e657a03e8e1d6fbf979fd[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 15:58:46 2020 +0000
+
+    1st comit in d1
+
+[33mcommit 98718121619b461b231a2a7e1a35291ffb77261d[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 15:56:13 2020 +0000
+
+    fast f merge
+
+[33mcommit de0bb421c58492f2ccadd9852403b72371c86db2[m
+Merge: 087c189 81cbd94
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 15:43:15 2020 +0000
+
+    Merge branch 'r1'
+
+[33mcommit 81cbd94e55d53019a8a677c8044c9706c27df568[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 15:42:58 2020 +0000
+
+    commit in r1
+
+[33mcommit 087c189af2c7bba6ab1f78cb7ce1000819aeb0be[m
+Merge: 297064b d20718b
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 15:37:42 2020 +0000
+
+    merge solved
+
+[33mcommit d20718b79f48c6cb36e96676e047b295ca470096[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 15:34:58 2020 +0000
+
+    2nd merge
+
+[33mcommit 297064ba7be859d4d1799e3e8385fcb8ba890158[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 15:32:54 2020 +0000
+
+    1st merge
+
+[33mcommit b57b451eea2839c824d6f188019c3a3d9a0853ab[m
+Merge: d9a0e16 43afc36
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 15:28:38 2020 +0000
+
+    Merge branch 'f2'
+
+[33mcommit 43afc3634597e5987f8772cdf4cf2f24377e023c[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 15:28:13 2020 +0000
+
+    xcv
+
+[33mcommit d9a0e1687fcd7483067034d345193e3070701273[m
+Merge: 0f97cb9 c62a6b5
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 15:25:53 2020 +0000
+
+    Merge branch 'f2'
+
+[33mcommit c62a6b56f4fb9cb4a4cf84c96e2582a32be71629[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 15:24:30 2020 +0000
+
+    1st time
+
+[33mcommit 0f97cb9aad1926c74d09ecdba5b668636558678c[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 15:22:07 2020 +0000
+
+    1st commit
+
+[33mcommit 876c07edaff9321b9077e362c6f069b85e172f0c[m
+Merge: 69afa10 1e6a540
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 14:11:56 2020 +0000
+
+    merged
+
+[33mcommit 69afa104b0a756d35a1d39e224dd8f9a8b3d30eb[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 14:07:55 2020 +0000
+
+    cdv
+
+[33mcommit 1e6a54059b08456bc645734d5a05ee0a6262b147[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 14:02:32 2020 +0000
+
+    latest commit id
+
+[33mcommit 3a2640c35f2295f3dfa319dc22a15fe27dec17c2[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 13:55:29 2020 +0000
+
+    sub branch
+
+[33mcommit 85c2645245645eadd8c3b0dfbc593b09a447ec23[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 13:50:40 2020 +0000
+
+    deleted
+
+[33mcommit 39b6a466aabdcacdd84a9980a1224c3b9c2afe07[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 13:48:36 2020 +0000
+
+    commited
+
+[33mcommit 8407039ed949e9d84955cfcb0e1be8afc0045581[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 13:39:09 2020 +0000
+
+    normal
+
+[33mcommit 6ad6f895cb745fce377aeff88461f34b3603ca70[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 13:16:09 2020 +0000
+
+    correctly taken
+
+[33mcommit 070d659c64edd3465c899b9ea77a206e32a6a7e7[m
+Merge: bd251ab 8eab212
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 13:09:08 2020 +0000
+
+    Merge branch 'master' of https://github.com/ravi3377/ravi2
+
+[33mcommit bd251ab85b28c9c824a34ae40ed21bd427c156f0[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 13:06:20 2020 +0000
+
+    xyz
+
+[33mcommit a41e2c7ccd8204261e3dfd19241289ae075d4038[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 13:03:20 2020 +0000
+
+    a
+
+[33mcommit 8eab2121948b205a1f59748df618bd3e128d02f7[m
+Author: ravi3377 <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 12:54:16 2020 +0000
+
+    deleted unwanted files
+
+[33mcommit 64bd988a4d61bcaadd660f04e6c73a8945f93dcc[m
+Author: EC2 Default User <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 12:48:24 2020 +0000
+
+    2 files deleted
+
+[33mcommit 27f2542de70d02d898f6bd45cb744abfc7aaa12b[m
+Author: ravi3377 <50772207+ravi3377@users.noreply.github.com>
+Date:   Thu Dec 17 18:16:06 2020 +0530
+
+    Update hello
+
+[33mcommit 6514cdd3ec5a6fca0c0c581bcbaf6170cd16a278[m
+Merge: 7a0006f 49b211d
+Author: EC2 Default User <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 12:42:51 2020 +0000
+
+    Merge branch 'master' of https://github.com/ravi3377/ravi2
+
+[33mcommit 7a0006f3b900a2ecbd2ef2f976a2df0a0ee1c3dd[m
+Author: EC2 Default User <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 12:41:57 2020 +0000
+
+    sample
+
+[33mcommit 49b211dfb02f0829327493816f6b9a864d8c301e[m
+Author: ravi3377 <50772207+ravi3377@users.noreply.github.com>
+Date:   Thu Dec 17 18:10:52 2020 +0530
+
+    Update today.txt
+
+[33mcommit 3d49fe18bec3d82329eaf3675da76d06716ee2ae[m
+Author: EC2 Default User <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 12:38:37 2020 +0000
+
+    today 2nd coomit
+
+[33mcommit cff30a79e8270ef182ee793113f8830f87b6cc25[m
+Author: EC2 Default User <ec2-user@ip-172-31-63-110.ec2.internal>
+Date:   Thu Dec 17 12:35:12 2020 +0000
+
+    today commited
+
+[33mcommit 54f41354d6db2fdcd242f683cd76d9e099296dde[m[33m ([m[1;33mtag: 1.3[m[33m)[m
+Merge: bb687d7 079f514
+Author: ravi3377 <ec2-user@ip-172-31-94-153.ec2.internal>
+Date:   Mon Feb 3 06:38:24 2020 +0000
+
+    wer
+
+[33mcommit 079f514ebf870d4357aa35a28744ad891d28827d[m
+Author: ravi3377 <ec2-user@ip-172-31-94-153.ec2.internal>
+Date:   Mon Feb 3 06:35:26 2020 +0000
+
+    vbn
+
+[33mcommit bb687d7a60b3f3f38dd43f32461609de868d3c2d[m
+Author: ravi3377 <ec2-user@ip-172-31-94-153.ec2.internal>
+Date:   Mon Feb 3 06:33:41 2020 +0000
+
+    345
+
+[33mcommit 1d1c2902f114b04ec98198f03ba17941e5eb8e2e[m
+Merge: fb31be1 df5b2be
+Author: ravi3377 <ec2-user@ip-172-31-94-153.ec2.internal>
+Date:   Mon Feb 3 06:30:22 2020 +0000
+
+    Merge branch 'green'
+
+[33mcommit fb31be1e6f0f10a741c9ef046e675536737d1c8d[m
+Author: ravi3377 <ec2-user@ip-172-31-94-153.ec2.internal>
+Date:   Mon Feb 3 06:25:24 2020 +0000
+
+    fgh
+
+[33mcommit df5b2bea6c79d576c81068c9dd61cd96a2f41a77[m
+Author: ravi3377 <ec2-user@ip-172-31-94-153.ec2.internal>
+Date:   Mon Feb 3 06:25:24 2020 +0000
+
+    fgh
+
+[33mcommit c09532cadadac15a6f5970539100848cced1df93[m[33m ([m[1;33mtag: 1.2[m[33m)[m
+Author: ravi3377 <ec2-user@ip-172-31-94-153.ec2.internal>
+Date:   Mon Feb 3 06:24:38 2020 +0000
+
+    rty
+
+[33mcommit 5b3e78b0ec16168ec5afbb4dafb9e07c4b2cc705[m
+Author: ravi3377 <ec2-user@ip-172-31-94-153.ec2.internal>
+Date:   Mon Feb 3 06:22:52 2020 +0000
+
+    asd
+
+[33mcommit 12cf212b16096e9b3a1a82c11d3e49530183aa79[m
+Author: ravi3377 <50772207+ravi3377@users.noreply.github.com>
+Date:   Mon Feb 3 11:44:45 2020 +0530
+
+    Create hello
+
+[33mcommit 71994a735e14e83bf7a6f2d1786619efe6189b4e[m
+Author: raviteja <ec2-user@ip-172-31-94-153.ec2.internal>
+Date:   Mon Feb 3 06:13:34 2020 +0000
+
+    asdf
+
+[33mcommit 854c97dffa0a88867a5f562796322f5807ccdc8a[m
+Author: raviteja <ec2-user@ip-172-31-94-153.ec2.internal>
+Date:   Mon Feb 3 06:09:03 2020 +0000
+
+    delete
+
+[33mcommit 23743303507e09bc1cf84ad90b4e0f58d69afe9b[m
+Author: raviteja <ec2-user@ip-172-31-94-153.ec2.internal>
+Date:   Mon Feb 3 05:51:49 2020 +0000
+
+    message
+
+[33mcommit 9e7449fbc8eed66f367afc43682530f115098636[m
+Author: ravi3377 <50772207+ravi3377@users.noreply.github.com>
+Date:   Sun Nov 24 12:25:41 2019 +0530
+
+    Update file1
+
+[33mcommit cf5ac618a069664a7210500968eba433d6594b0f[m
+Author: ravi3377 <50772207+ravi3377@users.noreply.github.com>
+Date:   Sat Nov 23 12:33:06 2019 +0530
+
+    Update file4
+
+[33mcommit a4008acb3d1889091127bda32102708aae334eb3[m
+Author: EC2 Default User <ec2-user@ip-172-31-83-155.ec2.internal>
+Date:   Sat Nov 23 07:00:26 2019 +0000
+
+    sample message
+
+[33mcommit 6463d985f71d07a58067553c664cba6e0483aaa2[m
+Author: raviteja <ravitejavelaga25@gmail.com>
+Date:   Thu Oct 24 12:24:18 2019 +0530
+
+    deleted file7
+
+[33mcommit f4009bad34c18853184228dddb004c7c4f2e0238[m
+Author: raviteja <ravitejavelaga25@gmail.com>
+Date:   Thu Oct 24 11:45:32 2019 +0530
+
+    xyz
+
+[33mcommit a9181ca9693795cb479937e2a37ed981398ca43a[m[33m ([m[1;33mtag: 1.1[m[33m)[m
+Author: raviteja <ravitejavelaga25@gmail.com>
+Date:   Thu Oct 24 10:14:52 2019 +0530
+
+    123
+
+[33mcommit 36d75426ac69e4e017ffbdb164190c82b19ed997[m
+Author: raviteja <ravitejavelaga25@gmail.com>
+Date:   Thu Oct 24 10:09:06 2019 +0530
+
+    first comment
+
+[33mcommit 17241d874e1367155fdee2ae1af0f2c88ff3a8ac[m
+Author: raviteja <ravitejavelaga25@gmail.com>
+Date:   Wed Oct 23 12:54:42 2019 +0530
+
+    abc
+
+[33mcommit 80ba2f4f3d8d84ec788e8adad98e38388f0fc4bd[m
+Author: raviteja <ec2-user@ip-172-31-92-182.ec2.internal>
+Date:   Thu Aug 1 05:17:08 2019 +0000
+
+    asdf
+
+[33mcommit d6dcea6914924cf2cfe896dbf30853e883b4221e[m
+Author: raviteja <ec2-user@ip-172-31-92-182.ec2.internal>
+Date:   Thu Aug 1 05:06:02 2019 +0000
+
+    asd
+
+[33mcommit 00ddb192038cce214aabee4ca23bcdc1c72886c2[m
+Author: ravi <raviteja432165@.com>
+Date:   Mon Jul 22 12:38:44 2019 +0530
+
+    deleted
+
+[33mcommit 2c8d56288e7c8cb393987e3f44310782fe29e9e0[m
+Author: ravi <raviteja432165@.com>
+Date:   Mon Jul 22 12:31:30 2019 +0530
+
+    adc
+
+[33mcommit d08e4b18c6a78f365ae1b55c11ae6fdbc9b64add[m
+Author: ravi <raviteja432165@.com>
+Date:   Mon Jul 22 12:29:34 2019 +0530
+
+    sample
+
+[33mcommit 097d708b3124cd2236cffdaa86e8355743687c38[m
+Author: ravi <raviteja432165@.com>
+Date:   Mon Jul 22 12:17:11 2019 +0530
+
+    sample
+
+[33mcommit 27538374d1cd41fb835652054ed91e477a4b3f9c[m
+Author: ravi <raviteja432165@.com>
+Date:   Mon Jul 22 12:13:38 2019 +0530
+
+    deleted f1
+
+[33mcommit b2fc4aaf862d702cfe744cecf478f596a70894cc[m
+Author: ravi <raviteja432165@.com>
+Date:   Mon Jul 22 12:04:49 2019 +0530
+
+    sample
+
+[33mcommit b91d8b4226bacc4f79191630364288f788c334ae[m
+Author: ravi <raviteja432165@.com>
+Date:   Mon Jul 22 11:56:45 2019 +0530
+
+    sample commit
+
+[33mcommit f16702369230f625367664dc973ca568bbce91d9[m
+Author: ravi <raviteja432165@.com>
+Date:   Sat Jul 20 20:04:51 2019 +0530
+
+    abcd
+
+[33mcommit 3f2a3e2e0134d7ca088600159637d3dbf151a7a8[m
+Author: ravi <raviteja432165@.com>
+Date:   Sat Jul 20 19:58:56 2019 +0530
+
+    commited by teja
+
+[33mcommit 4ff529e591e731e17cbc0763921e8e9aa090dbf9[m
+Author: ravi <raviteja432165@.com>
+Date:   Sat Jul 20 19:52:49 2019 +0530
+
+    commited by ravi
+
+[33mcommit 44880754ac72de714a9dea5bc980d6b8c68c0c7b[m
+Author: ravi3377 <50772207+ravi3377@users.noreply.github.com>
+Date:   Sat Jul 20 19:46:32 2019 +0530
+
+    Initial commit
